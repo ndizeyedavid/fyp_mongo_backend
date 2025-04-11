@@ -1,0 +1,9 @@
+200 => ok
+201 => Created
+
+400 => bad request
+401 => unauthorised access
+404 => not found
+
+500 => internal server error
+503 => bad gateway
